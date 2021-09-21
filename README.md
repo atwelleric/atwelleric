@@ -12,9 +12,9 @@
 
  📝 &nbsp; All of my projects are available at [https://atwell.dev/](https://atwell.dev/)
 
- 💬 &nbsp; How to reach me **eric@atwell.dev**
+ 💬 &nbsp; You can reach me at **eric@atwell.dev**
 
- ⚡ &nbsp; Fun fact **I'm a Whovian 👨‍⚕️**
+ ⚡ &nbsp; Fun fact: **I'm a Whovian 👨‍⚕️**
 
  </h5>
 <br>
