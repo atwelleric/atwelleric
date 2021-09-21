@@ -2,7 +2,7 @@
 <h3 align="center">I write code, occasionally stream on Twitch, and build things.</h3>
 
 
-<h5 align="center">
+<h5 align="left">
 
  🔭 &nbsp; I’m currently working on **Prototyping and Testing Designs**
 
